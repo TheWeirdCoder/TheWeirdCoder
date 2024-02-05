@@ -1,12 +1,12 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm TheWEirdCoder👋
 
-Welcome to my GitHub profile! I'm passionate about [your interests or skills]. Here, you'll find some of the projects I've worked on and the technologies I love.
+Welcome to my GitHub profile! I'm passionate about skript. Here, you'll find some of the projects I've worked on and the technologies I love.
 
 ## About Me
 
 - 💻 CEO Of MoonshineMC and Moonshine Development
 - 🌐 https://moonshinemc.xyz
-- 
+
 ## Projects
 
 ### MoonshineMC
